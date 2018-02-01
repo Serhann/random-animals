@@ -5,11 +5,11 @@ class randomAnimal {
 	/**
 	 * It returns a random cat
 	 */
-	cat() {
+	async cat() {
 		try {
 			var { body } = await snekfetch
-			.get('http://random.cat/meow');
-        		return body.file;
+				.get('http://random.cat/meow');
+					return body.file;
 		} catch (err) {
 			throw 'Error: ' + err.message;
 		}
@@ -18,7 +18,7 @@ class randomAnimal {
 	/**
 	 * It returns a random dog
 	 */
-	dog() {
+	async dog() {
 		try {
 			const { body } = await snekfetch
 				.get('https://random.dog/woof.json');
@@ -27,6 +27,7 @@ class randomAnimal {
 			throw 'Error: ' + err.message;
 		}
 	}
+
 }
 
 module.exports = new randomAnimal();

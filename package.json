@@ -11,14 +11,11 @@
     "url": "git+https://github.com/Serhann/random-animal.git"
   },
   "keywords": [
-    "random",
+    "random animal",
+    "random cats",
+    "random dogs",
     "animal",
-    "random",
     "cats",
-    "animal",
-    "cats",
-    "dogs",
-    "random",
     "dogs"
   ],
   "author": "Serhann & 4rd4",
@@ -26,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/Serhann/random-animal/issues"
   },
-  "homepage": "https://github.com/Serhann/random-animal#readme"
+  "homepage": "https://github.com/Serhann/random-animal#readme",
+  "dependencies": {
+    "snekfetch": "^3.6.3",
+    "superagent": "^3.8.2"
+  }
 }
