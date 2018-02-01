@@ -1,6 +1,6 @@
 const snekfetch = require('snekfetch');
 
-class randomAnimal {
+class randomAnimals {
 
 	/**
 	 * It returns a random cat
@@ -30,4 +30,4 @@ class randomAnimal {
 
 }
 
-module.exports = new randomAnimal();
+module.exports = new randomAnimals();

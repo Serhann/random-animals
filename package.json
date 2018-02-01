@@ -4,7 +4,7 @@
   "description": "it returns random animals",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "cd examples && node cat"
   },
   "repository": {
     "type": "git",

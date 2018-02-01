@@ -1,3 +1,3 @@
-const randomAnimal = require('../index.js')
+const randomAnimals = require('../index.js')
 
-randomAnimal.dog().then(dog => console.log(dog));
+randomAnimals.dog().then(dog => console.log(dog));
