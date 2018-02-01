@@ -4,7 +4,7 @@
   "description": "it returns random animals",
   "main": "index.js",
   "scripts": {
-    "test": "cd examples && node cat"
+    "test": "cd examples && node testAll"
   },
   "repository": {
     "type": "git",

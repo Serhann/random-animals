@@ -1,1 +1,1 @@
-its an readme
+(Travis badge)[https://travis-ci.org/Serhann/random-animals.svg?branch=master]
