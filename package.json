@@ -1,5 +1,5 @@
 {
-  "name": "random-animal",
+  "name": "random-animals",
   "version": "1.0.0",
   "description": "it returns random animals",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Serhann/random-animal.git"
+    "url": "git+https://github.com/Serhann/random-animals.git"
   },
   "keywords": [
     "random animal",
@@ -21,9 +21,9 @@
   "author": "Serhann & 4rd4",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Serhann/random-animal/issues"
+    "url": "https://github.com/Serhann/random-animals/issues"
   },
-  "homepage": "https://github.com/Serhann/random-animal#readme",
+  "homepage": "https://github.com/Serhann/random-animals#readme",
   "dependencies": {
     "snekfetch": "^3.6.3",
     "superagent": "^3.8.2"
