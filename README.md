@@ -1,4 +1,4 @@
-[![Travis Badge](https://travis-ci.org/Serhann/random-animals.svg?branch=master)]
+[![Travis Badge](https://travis-ci.org/Serhann/random-animals.svg?branch=master)
 
 # Random Animals
 Its an random animal module for nodejs
@@ -13,8 +13,8 @@ const randomAnimals = require('../index.js')
 randomAnimals.cat().then(cat => console.log(cat));
 ```
 
-**An example:**\n\n
-[![an cat xd](http://random.cat/i/win_20150714_153831.jpg)]
+**An example:**
+![an cat](http://random.cat/i/win_20150714_153831.jpg)
 
 ## Requirements
   - NodeJS >=8
