@@ -1,0 +1,30 @@
+{
+  "name": "random-animal",
+  "version": "1.0.0",
+  "description": "it returns random animals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Serhann/random-animal.git"
+  },
+  "keywords": [
+    "random",
+    "animal",
+    "random",
+    "cats",
+    "animal",
+    "cats",
+    "dogs",
+    "random",
+    "dogs"
+  ],
+  "author": "Serhann & 4rd4",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Serhann/random-animal/issues"
+  },
+  "homepage": "https://github.com/Serhann/random-animal#readme"
+}
