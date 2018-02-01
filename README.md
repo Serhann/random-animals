@@ -1,10 +1,10 @@
-[![Travis badge](https://travis-ci.org/Serhann/random-animals.svg?branch=master)
+[Travis badge](https://travis-ci.org/Serhann/random-animals.svg?branch=master)
 
 # Random Animals
 Its an random animal module for nodejs
 
-**An example:**
-[![an cat xd](http://random.cat/i/win_20150714_153831.jpg)
+**An example:**\n\n
+[an cat xd](http://random.cat/i/win_20150714_153831.jpg)
 
 ## Requirements
   - NodeJS >=8
