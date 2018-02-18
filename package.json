@@ -25,7 +25,6 @@
   },
   "homepage": "https://github.com/Serhann/random-animals#readme",
   "dependencies": {
-    "snekfetch": "^3.6.3",
-    "superagent": "^3.8.2"
+    "snekfetch": "^3.6.3"
   }
 }
