@@ -8,7 +8,7 @@ class randomAnimals {
 	async cat() {
 		try {
 			var { body } = await snekfetch
-				.get('http://random.cat/meow');
+				.get('https://aws.random.cat/meow');
 					return body.file;
 		} catch (err) {
 			throw 'Error: ' + err.message;
