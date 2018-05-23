@@ -8,7 +8,7 @@ Its an random animal module for nodejs
 Its for a beautiful cat;
 
 ```js
-const randomAnimals = require('../index.js')
+const randomAnimals = require('random-animals')
 
 randomAnimals.cat().then(cat => console.log(cat));
 ```
