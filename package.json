@@ -1,6 +1,6 @@
 {
   "name": "random-animals",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "it returns random animals",
   "main": "index.js",
   "scripts": {
